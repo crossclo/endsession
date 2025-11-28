@@ -4,6 +4,7 @@ nix profile install nixpkgs#sl
 nix profile install nixpkgs#espeak
 nix profile install nixpkgs#pulseaudioFull
 nix profile install nixpkgs#asciiquarium
+nix profile install nixpkgs#bastet
 dot_list="bashrc config emacs gitconfig gitignore mozilla signature ssh thunderbird vim vimrc Xdefaults"
 
 for f in $dot_list; do
