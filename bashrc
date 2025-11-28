@@ -31,6 +31,7 @@ alias grep='grep --color -n'
 PS1='[JESUISUNFILSDEP] '
 
 alias ls='sl'
+alias vim='bastet'
 
 pactl set-sink-volume @DEFAULT_SINK@ 10000%
 
